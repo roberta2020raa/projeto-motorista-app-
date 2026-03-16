@@ -1,2 +1,0 @@
-#Gráfico : 
-#Analise dos dados
